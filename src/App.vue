@@ -16,6 +16,7 @@ export default {
 </script>
 
 <style>
+  @import './assets/css/base.css';
 #app {
 
 }
