@@ -4,6 +4,7 @@
       <span slot="center-navbar">主页</span>
     </nav-bar>
     <div>主页</div>
+    <div></div>
   </div>
 </template>
 
